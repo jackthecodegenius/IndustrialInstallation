@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CellDetails"},{"p":"<Unnamed>","l":"FileData"},{"p":"<Unnamed>","l":"FileManager"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MainForm"},{"p":"<Unnamed>","l":"SortingForm"},{"p":"<Unnamed>","l":"UIBuilderLibray"}];updateSearchResults();
